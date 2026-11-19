@@ -1,5 +1,6 @@
 {
-  "latest_version": "2.0",
-  "download_url": "sha256:5b5b2c3b89dd060f216dbe2eea588ba9e80ef53bae952df36b35d426ad9375c0
-"
+  "latest_version": "2.1",
+  "download_url": "sha256:5b5b2c3b89dd060f216dbe2eea588ba9e80ef53bae952df36b35d426ad9375c0",
+  "release_date": "2026-11-20",
+  "changelog": "• New Auto Update feature<br>• Bug fixes"
 }
